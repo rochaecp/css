@@ -61,7 +61,7 @@ div.container {
 
 > Ex.: formata todos os parágrafos da classe .breaking:
 ~~~css
-.p.breaking {
+p.breaking {
   color: green;
 }
 ~~~
