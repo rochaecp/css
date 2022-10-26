@@ -1,5 +1,7 @@
 # CSS
 
+## Introdução
+
 1. [Sobre o CSS](estudos/about.md)
 1. [Inserindo o CSS em uma página Web](estudos/inserindo.md)
 1. [Seletores](estudos/seletores.md)
